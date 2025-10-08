@@ -21,7 +21,6 @@ python run_experiment.py --config example_config.json
 ```
 
 ## Notes
-- This package is a **minimal** reproducibility scaffold. The actual research code used for large-scale experiments may include optimized C/C++ modules and cluster orchestration.
 - The cpSI-R model here is a transparent Python implementation matching the paper's conceptual description (reinforcement, time-limited activity, reactivation).
 - Please see Appendix C in the paper for parameter choices and experiment details.
 
