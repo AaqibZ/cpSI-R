@@ -1,0 +1,15 @@
+{
+  "dataset": "data/primary_school.csv",
+  "time_granularity": 20,
+  "tau": 300,
+  "eta": 0.7,
+  "lambda": 0.03,
+  "mu": 0.01,
+  "alpha": 0.5,
+  "k_list": [
+    10,
+    20
+  ],
+  "runs": 10,
+  "output_dir": "results"
+}
