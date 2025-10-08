@@ -1,4 +1,4 @@
-# cpSI-R Reproducibility Package (Minimal)
+# cpSI-R Reproducibility 
 This repository provides a minimal, well-documented Python implementation for reproducing experiments from the cpSI-R paper.
 It is intentionally compact and modular so reviewers and readers can run, inspect, and extend it.
 
